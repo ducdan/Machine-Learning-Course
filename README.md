@@ -9,45 +9,45 @@
 <b> Project: database, statistics, probability </b>
 ## Week 2:
 * Session 1: Probability distributions, chi squared, Bernoulli, Normal, Central Limit Theorem
-* Session 2:  Visualizations (matplotlib, seaborn), testing loans data, A/B test, RFC experiment
-	<b> Project: probability plotting, analysis report (using statistic models) </b>
+* Session 2:  Visualizations (matplotlib, seaborn), testing loans data, A/B test, RFC experiment </br>
+<b> Project: probability plotting, analysis report (using statistic models) </b>
 ## Week 3 (Unit 2 – Analysis):
-* Session 1: Acquiring data in Json format, download and clean Citi Bike data
+* Session 1: Acquiring data in Json format, download and clean Citi Bike data </br>
 <b> Project: citibike </b>
 * Session 2: work on project, store and analyze an hour Citi Bike data
 ## Week 4:
-* Session 1: Acquiring weather data from an API, store and profile data
+* Session 1: Acquiring weather data from an API, store and profile data </br>
 <b> Project: Temperature </b>
 * Session 2: work on project, analyze temperature data
 ## Week 5:
-* Session 1: HTML and CSS for web scraping, scape data from United Nations
+* Session 1: HTML and CSS for web scraping, scape data from United Nations </br>
 <b> Project: education </b>
 * Session 2: work on project, store and profile scraped UN data, compare GDP to educational attainment
 ## Week 6 (Unit 3 - Regression)
-* Session 1: Overview Linear Regression, clean and plot data
+* Session 1: Overview Linear Regression, clean and plot data </br>
 <b> Project: Linear Regression </b>
 * Session 2: work on project, Linear Regression Analysis
 ## Week 7:
-* Session 1: Overview Logistic Regression, data cleaning
+* Session 1: Overview Logistic Regression, data cleaning </br>
 <b> Project: Logistic Regression </b>
 * Session 2: work on project, Logistic Regression Analysis
 ## Week 8:
-* Session 1: Overview Multivariate and Time Series
+* Session 1: Overview Multivariate and Time Series </br>
 <b> Project: Multivariate Analysis, Time Series </b>
 * Session 2: work on project, Multivariate Analysis and Time Series
 ## Week 9 (Unit 4 – Prediction)
-* Session 1: Over fitting and Cross Validation, Decision Tree and Random Forest
+* Session 1: Over fitting and Cross Validation, Decision Tree and Random Forest </br>
 <b> Project: Random Forest </b>
 * Session 2: work on project, data cleaning, Random Forest Analysis
 ## Week 10:
-* Session 1: Bayes, data cleaning, Bayes Analysis
+* Session 1: Bayes, data cleaning, Bayes Analysis </br>
 <b> Project: Bayes </b>
-* Session 2: K-Nearest Neighbors, Clustering, data cleaning 
+* Session 2: K-Nearest Neighbors, Clustering, data cleaning </br>
 <b> Project: knn, kmeans </b>
 ## Week 11:
-* Session 1: Support Vector Machine
+* Session 1: Support Vector Machine </br>
 <b> Project: SVM </b>
-* Session 2: Principal Component Analysis, Linear Discriminant Analysis
+* Session 2: Principal Component Analysis, Linear Discriminant Analysis </br>
 <b> Project: PCA, LDA </b>
 ## Week 12 & 13 (Unit 5 – Capstone project)
 <i> These two weeks will dedicate to Capstone project. Each student will propose his/her own project to work on independently under instructor’s guidance.</i>
