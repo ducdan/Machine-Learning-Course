@@ -5,7 +5,7 @@
 <i> The course will meet two sessions per week, each session lasts two hours. There will be forty five minutes lecture following an hour and fifteen minutes lab time, students will work on real-world projects under guidance of instructor (students supposed to work on the projects at home, during the lab time, instructor will help students to troubleshoot errors as well as perfect the projects). </i>
 ## Week 1 (Unit 1 – Basics):
 * Session 1: Anaconda setup, Jupyter notebook, getting familiar with Pandas, numpy, scipy, SQLite database
-* Session 2: Statistics, probability, hypothesis testing, t-test, p-value
+* Session 2: Statistics, probability, hypothesis testing, t-test, p-value </br>
 <b> Project: database, statistics, probability </b>
 ## Week 2:
 * Session 1: Probability distributions, chi squared, Bernoulli, Normal, Central Limit Theorem
